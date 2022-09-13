@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/** 
+/**
  * print_alphabet - the entry point
  *
  * Description: prints the alphabet in lowercase
