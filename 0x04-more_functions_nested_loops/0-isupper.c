@@ -1,4 +1,6 @@
+#include "main.h"
 #include <stdio.h>
+#include "alx.h"
 
 /**
  * _isupper - checks is a character is uppercase
